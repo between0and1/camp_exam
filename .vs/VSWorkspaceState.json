@@ -3,7 +3,8 @@
     "",
     "\\learning-cxx",
     "\\learning-cxx\\exercises",
-    "\\learning-cxx\\exercises\\00_hello_world"
+    "\\learning-cxx\\exercises\\00_hello_world",
+    "\\learning-cxx\\exercises\\01_variable&add"
   ],
   "SelectedNode": "\\learning-cxx\\exercises\\00_hello_world\\main.cpp",
   "PreviewInSolutionExplorer": false
